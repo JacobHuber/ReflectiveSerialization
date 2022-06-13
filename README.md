@@ -1,7 +1,7 @@
 # Reflective Serialization
 *Advanced Programming Techniques (CPSC 501)*
 
-Simple project to showcase Java reflection, Serialization/Deserialization, and Sockets.
+Simple project to showcase Java Reflection, Serialization/Deserialization, and Sockets.
 
 Allows creation of 5 different types of objects whose instance variables can be set. Object creation allows different types of 
 objects to represent a wide case of objects that might exist in a given project. The objects are then reflected to inspect their 
